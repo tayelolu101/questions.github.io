@@ -1,5 +1,5 @@
 {
-      "TrafficCapacity": 25	
-      "TestingDuration": 30
+      "TrafficCapacity": 25,	
+      "TestingDuration": 30,
       "NumberOfInstances": 1
 }
